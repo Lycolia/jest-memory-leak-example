@@ -35,6 +35,7 @@ module.exports = {
       },
     ],
   },
+  runtime: '@side/jest-runtime',
   watchPlugins: [
     'jest-watch-typeahead/filename',
     'jest-watch-typeahead/testname',
